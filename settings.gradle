@@ -1,0 +1,1 @@
+include ':app', ':jp.co.arkray.android.graphgenerator'
